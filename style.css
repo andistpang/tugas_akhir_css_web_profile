@@ -1,0 +1,14 @@
+a {
+  color: white;
+}
+img {
+  max-width: 800px;
+  max-height: 400px;
+}
+.card-img-top {
+  width: 20rem;
+  height: 250px;
+}
+iframe {
+  margin: 10px;
+}
